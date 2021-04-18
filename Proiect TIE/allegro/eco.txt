@@ -1,0 +1,224 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  PROIECTTIE.brd                                                              |
+|                                                    Sat May 30 16:16:01 2020  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  +15V         pins ADDED TO this new net
+                                 J1.1           R12.1          U1.8           
+                                 U2.7           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  -15V         pins ADDED TO this new net
+                                 J1.2           R8.3           U1.1           
+                                 U1.4           U2.4           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND          pins ADDED TO this new net
+                                 J1.3           J2.4           Q2.3           
+                                 R4.2           R5.2           R7.2           
+                                 R8.1           R10.2          R11.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  INPUT        pins ADDED TO this new net
+                                 J2.1           Q1.2           R2.1           
+                                 R3.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00510       pins ADDED TO this new net
+                                 D1.2           Q1.3           R3.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00537       pins ADDED TO this new net
+                                 Q1.1           Q2.1           R1.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01115       pins ADDED TO this new net
+                                 D2.1           Q2.2           R4.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01188       pins ADDED TO this new net
+                                 C1.1           C2.1           R1.2           
+                                 U2.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01195       pins ADDED TO this new net
+                                 R2.2           R5.1           U2.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01837       pins ADDED TO this new net
+                                 R6.2           R8.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01891       pins ADDED TO this new net
+                                 D3.2           D4.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01915       pins ADDED TO this new net
+                                 C2.2           R7.1           U2.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02326       pins ADDED TO this new net
+                                 D4.1           R9.2           R10.1          
+                                 U1.2           
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  PROIECTTIE.brd                                                              |
+|                                                    Sat May 30 16:16:01 2020  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  N02424       pins ADDED TO this new net
+                                 R11.2          U1.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N05649       pins ADDED TO this new net
+                                 R6.1           U2.5           U2.8           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SQUARE WAVE OUTPUT pins ADDED TO this new net
+                                 D1.1           D2.2           J2.3           
+                                 R9.1           R12.2          U1.7           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  TRIANGULAR WAVE OUTPUT pins ADDED TO this new net
+                                 C1.2           D3.1           J2.2           
+                                 U2.6           
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  PROIECTTIE.brd                                                              |
+|                                                    Sat May 30 16:16:01 2020  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ 2N3972_TO92_2N3972
+ CON3_JUMPER3_CON3
+ CON4_JUMPER4_CON4
+ C_CAP400_1000PF
+ C_CAP400_150PF
+ DIODE ZENER_DIO400_1N751
+ DIODE_DIO400_1N452
+ DIODE_DIO400_1N457
+ J177_TO92_2N5019
+ LM101A_3_DIP8_3_LM101A
+ LM111_0_DIP8_3_LM111
+ POT_POT_20K
+ RESISTOR_RES400_10K
+ RESISTOR_RES400_10M
+ RESISTOR_RES400_1K
+ RESISTOR_RES400_22K
+ RESISTOR_RES400_330K
+ RESISTOR_RES400_3K
+ RESISTOR_RES400_47K
+ RESISTOR_RES400_5.1M
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  PROIECTTIE.brd                                                              |
+|                                                    Sat May 30 16:16:01 2020  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1                  C_CAP400_1000PF       
+ C2                  C_CAP400_150PF        
+ D1                  DIODE_DIO400_1N452    
+ D2                  DIODE_DIO400_1N457    
+ D3                  DIODE ZENER_DIO400_1N751 
+ D4                  DIODE ZENER_DIO400_1N751 
+ J1                  CON3_JUMPER3_CON3     
+ J2                  CON4_JUMPER4_CON4     
+ Q1                  2N3972_TO92_2N3972    
+ Q2                  J177_TO92_2N5019      
+ R1                  RESISTOR_RES400_10K   
+ R2                  RESISTOR_RES400_22K   
+ R3                  RESISTOR_RES400_330K  
+ R4                  RESISTOR_RES400_47K   
+ R5                  RESISTOR_RES400_22K   
+ R6                  RESISTOR_RES400_5.1M  
+ R7                  RESISTOR_RES400_10M   
+ R8                  POT_POT_20K           
+ R9                  RESISTOR_RES400_10K   
+ R10                 RESISTOR_RES400_1K    
+ R11                 RESISTOR_RES400_1K    
+ R12                 RESISTOR_RES400_3K    
+ U1                  LM111_0_DIP8_3_LM111  
+ U2                  LM101A_3_DIP8_3_LM101A 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  PROIECTTIE.brd                                                              |
+|                                                    Sat May 30 16:16:01 2020  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1.2                           PRIM_FILE      .\pstchip.dat
+ C1.2                           SECTION        
+ C2.2                           PRIM_FILE      .\pstchip.dat
+ C2.2                           SECTION        
+ D1.1                           PRIM_FILE      .\pstchip.dat
+ D1.1                           SECTION        
+ D2.1                           PRIM_FILE      .\pstchip.dat
+ D2.1                           SECTION        
+ D3.1                           PRIM_FILE      .\pstchip.dat
+ D3.1                           SECTION        
+ D4.1                           PRIM_FILE      .\pstchip.dat
+ D4.1                           SECTION        
+ J1.3                           PRIM_FILE      .\pstchip.dat
+ J1.3                           SECTION        
+ J2.4                           PRIM_FILE      .\pstchip.dat
+ J2.4                           SECTION        
+ Q1.1                           PRIM_FILE      .\pstchip.dat
+ Q1.1                           SECTION        
+ Q2.3                           PRIM_FILE      .\pstchip.dat
+ Q2.3                           SECTION        
+ R1.2                           PRIM_FILE      .\pstchip.dat
+ R1.2                           SECTION        
+ R2.2                           PRIM_FILE      .\pstchip.dat
+ R2.2                           SECTION        
+ R3.2                           PRIM_FILE      .\pstchip.dat
+ R3.2                           SECTION        
+ R4.2                           PRIM_FILE      .\pstchip.dat
+ R4.2                           SECTION        
+ R5.2                           PRIM_FILE      .\pstchip.dat
+ R5.2                           SECTION        
+ R6.2                           PRIM_FILE      .\pstchip.dat
+ R6.2                           SECTION        
+ R7.2                           PRIM_FILE      .\pstchip.dat
+ R7.2                           SECTION        
+ R8.2                           PRIM_FILE      .\pstchip.dat
+ R8.2                           SECTION        
+ R9.2                           PRIM_FILE      .\pstchip.dat
+ R9.2                           SECTION        
+ R10.2                          PRIM_FILE      .\pstchip.dat
+ R10.2                          SECTION        
+ R11.2                          PRIM_FILE      .\pstchip.dat
+ R11.2                          SECTION        
+ R12.2                          PRIM_FILE      .\pstchip.dat
+ R12.2                          SECTION        
+ U1.4                           PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   6  |
+|------------------------------------------------------------------------------|
+|  PROIECTTIE.brd                                                              |
+|                                                    Sat May 30 16:16:01 2020  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ U1.4                           SECTION        
+ U2.6                           PRIM_FILE      .\pstchip.dat
+ U2.6                           SECTION        
+|------------------------------------------------------------------------------|
+|       Nets changed          :      64                                        |
+|       Comp definitions added:      20                                        |
+|       Components added      :      24                                        |
+|       Slot property added   :      48                                        |
+|                                                                              |
+|   Total ECO changes reported:     156                                        |
+|------------------------------------------------------------------------------|

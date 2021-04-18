@@ -1,0 +1,58 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    NC DRILL Log                                                     )
+(                                                                     )
+(    Drawing          : PROIECTTIE.brd                                )
+(    Software Version : 16.6-2015S059                                 )
+(    Date/Time        : Tue Jun 02 18:19:49 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ Processing NC Parameters file 'nc_param.txt' ...
+
+ NC PARAMETERS
+ -------------
+
+ FORMAT   		2.5
+ MACHINE-OFFSET		x:0.00000	y:0.00000   (mm)
+ FEEDRATE		1
+ COORDINATES		ABSOLUTE
+ OUTPUT-UNITS		METRIC
+ TOOL-ORDER		INCREASING
+ REPEAT-CODES		YES
+ SUPPRESS-LEAD-ZEROES	NO
+ SUPPRESS-TRAIL-ZEROES	NO
+ SUPPRESS-EQUAL		NO
+ TOOL-SELECT		NO
+ HEADER			none
+ LEADER			12
+ CODE			ASCII
+ SEPARATE		NO
+ SEPARATE-ROUTING	NO
+ OPTIMIZE_DRILLING	NO
+ ENHANCED_EXCELLON	YES
+ SCALE			1.000000
+
+
+
+ Drill files being output to directory 'D:/ORCAD - PROIECTE/PROIECT TIE/allegro' ...
+
+
+
+     'PROIECTTIE-1-2.drl' created for holes connecting TOP and BOTTOM
+     ----------------------------------------------------------------
+
+           Num     Size      +/- Tolerance     Plating   Quantity
+
+            1.   0.3302    0.0000/  0.0000      PLATED         23
+            2.   0.6350    0.0000/  0.0000      PLATED          6
+            3.   0.9144    0.0000/  0.0000      PLATED         35
+            4.   1.0668    0.0000/  0.0000      PLATED         25
+            5.   3.2000    0.0000/  0.0000  NON_PLATED          4
+
+     ---- Total holes:                                         93
+
+     ---- Total head travel:              6.06 feet (1.85 meters)
+

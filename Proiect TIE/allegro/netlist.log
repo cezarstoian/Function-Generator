@@ -1,0 +1,13 @@
+{ Using PSTWRITER 16.6.0 d001May-30-2020 at 16:16:00 }
+
+#1 WARNING(ORCAP-36038): "No_connect" property on Pin "U2.8" ignored for U2: SCHEMATIC1, PAGE1 (4.70, 1.60). Connecting pin to net "N05649".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... D:\ORCAD - PROIECTE\PROIECT TIE\allegro/pstchip.dat
+
+Loading... D:\ORCAD - PROIECTE\PROIECT TIE\allegro/pstchip.dat
+
+Loading... D:\ORCAD - PROIECTE\PROIECT TIE\allegro/pstxprt.dat
+
+Loading... D:\ORCAD - PROIECTE\PROIECT TIE\allegro/pstxnet.dat
+packaging the design view...

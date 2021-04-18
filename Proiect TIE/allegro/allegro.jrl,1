@@ -1,0 +1,102 @@
+\t (00:00:03) allegro 16.6-2015 S059 (v16-6-112ER) Windows 32
+\t (00:00:03)     Journal start - Thu Jun 11 13:11:39 2020
+\t (00:00:03)         Host=DESKTOP-I7F9HLT User=Cezar Pid=592 CPUs=16
+\t (00:00:03) CmdLine= D:\OrCAD\tools\pcb\bin\allegro.exe -orcad
+\t (00:00:03) 
+\t (00:00:03) Opening existing design...
+\d (00:00:03) Design opened: D:/ORCAD - PROIECTE/PROIECT TIE/allegro/PROIECTTIE.brd
+\i (00:00:03) trapsize 8072
+\i (00:00:03) trapsize 7937
+\i (00:00:03) trapsize 8095
+\i (00:00:03) trapsize 7211
+\i (00:00:03) trapsize 7211
+\i (00:00:04) generaledit 
+\i (00:00:04) zoom in 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom in 13.1183 -1.9126
+\i (00:00:04) trapsize 3605
+\i (00:00:04) zoom in 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom in 13.4067 -2.7779
+\i (00:00:04) trapsize 1803
+\i (00:00:05) pick grid 6.6646 5.9473
+\t (00:00:05) last pick:  6.6500 5.9500
+\i (00:00:07) show measure 
+\i (00:00:08) pick grid 6.3040 6.0194
+\t (00:00:08) last pick:  6.3000 5.9500
+\i (00:00:10) pick grid 0.6074 0.2868
+\t (00:00:10) last pick:  0.7000 0.3500
+\i (00:00:18) setwindow text
+\i (00:00:18) close 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) pick grid 2.6265 2.3419
+\t (00:00:19) last pick:  2.8000 2.4500
+\i (00:00:21) pick grid 6.2680 5.9113
+\t (00:00:21) last pick:  6.3000 5.9500
+\i (00:00:25) setwindow text
+\i (00:00:25) close 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) Esc 
+\i (00:00:27) Esc 
+\i (00:00:27) setwindow text
+\i (00:00:27) close 
+\i (00:00:28) setwindow pcb
+\i (00:00:28) pick grid 5.3306 -1.4438
+\t (00:00:28) last pick:  5.2500 -1.4000
+\i (00:00:29) Esc 
+\i (00:00:29) Esc 
+\i (00:00:29) setwindow text
+\i (00:00:29) close 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) move 
+\t (00:00:33) Cannot edit Mechanical Pin "Mtg125.". Symbol or drawing must have UNFIXED_PINS property.
+\t (00:00:33) No valid items selected for the current operation, exiting.
+\i (00:00:33) generaledit 
+\i (00:00:55) zoom out 1 
+\i (00:00:55) setwindow pcb
+\i (00:00:55) zoom out 11.6401 3.7840
+\i (00:00:55) trapsize 3605
+\i (00:01:17) zoom out 1 
+\i (00:01:17) setwindow pcb
+\i (00:01:17) zoom out 69.4713 10.4902
+\i (00:01:17) trapsize 7211
+\i (00:01:18) zoom in 1 
+\i (00:01:18) setwindow pcb
+\i (00:01:18) zoom in 79.2783 63.7066
+\i (00:01:18) trapsize 3605
+\i (00:01:18) zoom in 1 
+\i (00:01:18) setwindow pcb
+\i (00:01:18) zoom in 76.9708 60.3896
+\i (00:01:18) trapsize 1803
+\i (00:03:30) zoom out 1 
+\i (00:03:30) setwindow pcb
+\i (00:03:30) zoom out 58.7273 35.6923
+\i (00:03:30) trapsize 3605
+\i (00:03:30) zoom out 1 
+\i (00:03:30) setwindow pcb
+\i (00:03:30) zoom out 58.6551 35.6923
+\i (00:03:30) trapsize 7211
+\i (00:03:30) zoom out 1 
+\i (00:03:30) setwindow pcb
+\i (00:03:30) zoom out 58.5109 35.6924
+\i (00:03:30) trapsize 14422
+\i (00:03:30) zoom out 1 
+\i (00:03:30) setwindow pcb
+\i (00:03:30) zoom out 76.1244 35.6923
+\i (00:03:30) trapsize 25702
+\i (00:03:30) zoom out 1 
+\i (00:03:30) setwindow pcb
+\i (00:03:30) zoom out 291.9841 -102.2779
+\i (00:03:30) trapsize 25702
+\i (00:03:31) zoom in 1 
+\i (00:03:31) setwindow pcb
+\i (00:03:31) zoom in 103.8426 47.3100
+\i (00:03:31) trapsize 12851
+\i (00:03:31) zoom in 1 
+\i (00:03:31) setwindow pcb
+\i (00:03:31) zoom in -25.6218 47.3100
+\i (00:03:31) trapsize 6426
+\i (00:07:47) exit 
+\e (00:07:47) Do you want to save the changes you made to PROIECTTIE.brd?
+\i (00:07:49) fillin no 
+\t (00:07:49)     Journal end - Thu Jun 11 13:19:26 2020

@@ -1,0 +1,34 @@
+Generator de functii  Revised: Saturday, May 30, 2020
+          Revision: 
+
+
+
+
+
+
+
+Bill Of Materials            May 30,2020      16:12:01	Page1
+
+Item	Quantity	Reference	Part
+______________________________________________
+
+1	1	C1	1000pF
+2	1	C2	150pF
+3	1	D1	1N452
+4	1	D2	1N457
+5	2	D3,D4	1N751
+6	1	J1	CON3
+7	1	J2	CON4
+8	1	Q1	2N3972
+9	1	Q2	2N5019
+10	2	R1,R9	10K
+11	2	R2,R5	22K
+12	1	R3	330K
+13	1	R4	47K
+14	1	R6	5.1M
+15	1	R7	10M
+16	1	R8	20K
+17	2	R10,R11	1K
+18	1	R12	3K
+19	1	U1	LM111
+20	1	U2	LM101A

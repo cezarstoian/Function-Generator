@@ -1,0 +1,250 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.6.0 d001May-30-2020 at 16:12:14 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='PROIECTTIE';
+ POST_TIME='Aug  3 2015 18:16:55';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'C_CAP400_1000PF':;
+
+SECTION_NUMBER 1
+ '@PROIECTTIE.SCHEMATIC1(SCH_1):INS2044@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@proiecttie.schematic1(sch_1):ins2044@analog.\c.normal\(chips)',
+ P_PATH='@proiecttie.schematic1(sch_1):page1_ins2044@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'C_CAP400_150PF':;
+
+SECTION_NUMBER 1
+ '@PROIECTTIE.SCHEMATIC1(SCH_1):INS2060@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@proiecttie.schematic1(sch_1):ins2060@analog.\c.normal\(chips)',
+ P_PATH='@proiecttie.schematic1(sch_1):page1_ins2060@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'DIODE_DIO400_1N452':;
+
+SECTION_NUMBER 1
+ '@PROIECTTIE.SCHEMATIC1(SCH_1):INS188@DISCRETE.DIODE.NORMAL(CHIPS)':
+ C_PATH='@proiecttie.schematic1(sch_1):ins188@discrete.\diode.normal\(chips)',
+ P_PATH='@proiecttie.schematic1(sch_1):page1_ins188@discrete.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 'DIODE_DIO400_1N457':;
+
+SECTION_NUMBER 1
+ '@PROIECTTIE.SCHEMATIC1(SCH_1):INS204@DISCRETE.DIODE.NORMAL(CHIPS)':
+ C_PATH='@proiecttie.schematic1(sch_1):ins204@discrete.\diode.normal\(chips)',
+ P_PATH='@proiecttie.schematic1(sch_1):page1_ins204@discrete.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D3 'DIODE ZENER_DIO400_1N751':;
+
+SECTION_NUMBER 1
+ '@PROIECTTIE.SCHEMATIC1(SCH_1):INS311@DISCRETE.DIODE ZENER.NORMAL(CHIPS)':
+ C_PATH='@proiecttie.schematic1(sch_1):ins311@discrete.\diode zener.normal\(chips)',
+ P_PATH='@proiecttie.schematic1(sch_1):page1_ins311@discrete.\diode zener.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D4 'DIODE ZENER_DIO400_1N751':;
+
+SECTION_NUMBER 1
+ '@PROIECTTIE.SCHEMATIC1(SCH_1):INS327@DISCRETE.DIODE ZENER.NORMAL(CHIPS)':
+ C_PATH='@proiecttie.schematic1(sch_1):ins327@discrete.\diode zener.normal\(chips)',
+ P_PATH='@proiecttie.schematic1(sch_1):page1_ins327@discrete.\diode zener.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'CON3_JUMPER3_CON3':;
+
+SECTION_NUMBER 1
+ '@PROIECTTIE.SCHEMATIC1(SCH_1):INS5114@CONNECTOR.CON3.NORMAL(CHIPS)':
+ C_PATH='@proiecttie.schematic1(sch_1):ins5114@connector.\con3.normal\(chips)',
+ P_PATH='@proiecttie.schematic1(sch_1):page1_ins5114@connector.\con3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'CON4_JUMPER4_CON4':;
+
+SECTION_NUMBER 1
+ '@PROIECTTIE.SCHEMATIC1(SCH_1):INS5357@CONNECTOR.CON4.NORMAL(CHIPS)':
+ C_PATH='@proiecttie.schematic1(sch_1):ins5357@connector.\con4.normal\(chips)',
+ P_PATH='@proiecttie.schematic1(sch_1):page1_ins5357@connector.\con4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q1 '2N3972_TO92_2N3972':;
+
+SECTION_NUMBER 1
+ '@PROIECTTIE.SCHEMATIC1(SCH_1):INS371@TRANSISTOR.2N3972.NORMAL(CHIPS)':
+ C_PATH='@proiecttie.schematic1(sch_1):ins371@transistor.\2n3972.normal\(chips)',
+ P_PATH='@proiecttie.schematic1(sch_1):page1_ins371@transistor.\2n3972.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q2 'J177_TO92_2N5019':;
+
+SECTION_NUMBER 1
+ '@PROIECTTIE.SCHEMATIC1(SCH_1):INS3702@DISCRETE.J177.NORMAL(CHIPS)':
+ C_PATH='@proiecttie.schematic1(sch_1):ins3702@discrete.\j177.normal\(chips)',
+ P_PATH='@proiecttie.schematic1(sch_1):page1_ins3702@discrete.\j177.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'RESISTOR_RES400_10K':;
+
+SECTION_NUMBER 1
+ '@PROIECTTIE.SCHEMATIC1(SCH_1):INS442@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@proiecttie.schematic1(sch_1):ins442@discrete.\resistor.normal\(chips)',
+ P_PATH='@proiecttie.schematic1(sch_1):page1_ins442@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R10 'RESISTOR_RES400_1K':;
+
+SECTION_NUMBER 1
+ '@PROIECTTIE.SCHEMATIC1(SCH_1):INS2249@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@proiecttie.schematic1(sch_1):ins2249@discrete.\resistor.normal\(chips)',
+ P_PATH='@proiecttie.schematic1(sch_1):page1_ins2249@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R11 'RESISTOR_RES400_1K':;
+
+SECTION_NUMBER 1
+ '@PROIECTTIE.SCHEMATIC1(SCH_1):INS2265@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@proiecttie.schematic1(sch_1):ins2265@discrete.\resistor.normal\(chips)',
+ P_PATH='@proiecttie.schematic1(sch_1):page1_ins2265@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R12 'RESISTOR_RES400_3K':;
+
+SECTION_NUMBER 1
+ '@PROIECTTIE.SCHEMATIC1(SCH_1):INS2281@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@proiecttie.schematic1(sch_1):ins2281@discrete.\resistor.normal\(chips)',
+ P_PATH='@proiecttie.schematic1(sch_1):page1_ins2281@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'RESISTOR_RES400_22K':;
+
+SECTION_NUMBER 1
+ '@PROIECTTIE.SCHEMATIC1(SCH_1):INS458@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@proiecttie.schematic1(sch_1):ins458@discrete.\resistor.normal\(chips)',
+ P_PATH='@proiecttie.schematic1(sch_1):page1_ins458@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'RESISTOR_RES400_330K':;
+
+SECTION_NUMBER 1
+ '@PROIECTTIE.SCHEMATIC1(SCH_1):INS474@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@proiecttie.schematic1(sch_1):ins474@discrete.\resistor.normal\(chips)',
+ P_PATH='@proiecttie.schematic1(sch_1):page1_ins474@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'RESISTOR_RES400_47K':;
+
+SECTION_NUMBER 1
+ '@PROIECTTIE.SCHEMATIC1(SCH_1):INS1211@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@proiecttie.schematic1(sch_1):ins1211@discrete.\resistor.normal\(chips)',
+ P_PATH='@proiecttie.schematic1(sch_1):page1_ins1211@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'RESISTOR_RES400_22K':;
+
+SECTION_NUMBER 1
+ '@PROIECTTIE.SCHEMATIC1(SCH_1):INS1312@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@proiecttie.schematic1(sch_1):ins1312@discrete.\resistor.normal\(chips)',
+ P_PATH='@proiecttie.schematic1(sch_1):page1_ins1312@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'RESISTOR_RES400_5.1M':;
+
+SECTION_NUMBER 1
+ '@PROIECTTIE.SCHEMATIC1(SCH_1):INS1559@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@proiecttie.schematic1(sch_1):ins1559@discrete.\resistor.normal\(chips)',
+ P_PATH='@proiecttie.schematic1(sch_1):page1_ins1559@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'RESISTOR_RES400_10M':;
+
+SECTION_NUMBER 1
+ '@PROIECTTIE.SCHEMATIC1(SCH_1):INS1575@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@proiecttie.schematic1(sch_1):ins1575@discrete.\resistor.normal\(chips)',
+ P_PATH='@proiecttie.schematic1(sch_1):page1_ins1575@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'POT_RES400_20K':;
+
+SECTION_NUMBER 1
+ '@PROIECTTIE.SCHEMATIC1(SCH_1):INS1602@DISCRETE.POT.NORMAL(CHIPS)':
+ C_PATH='@proiecttie.schematic1(sch_1):ins1602@discrete.\pot.normal\(chips)',
+ P_PATH='@proiecttie.schematic1(sch_1):page1_ins1602@discrete.\pot.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'RESISTOR_RES400_10K':;
+
+SECTION_NUMBER 1
+ '@PROIECTTIE.SCHEMATIC1(SCH_1):INS2233@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@proiecttie.schematic1(sch_1):ins2233@discrete.\resistor.normal\(chips)',
+ P_PATH='@proiecttie.schematic1(sch_1):page1_ins2233@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'LM111_0_DIP8_3_LM111':;
+
+SECTION_NUMBER 1
+ '@PROIECTTIE.SCHEMATIC1(SCH_1):INS38@PROIECTTIE.LM111_0.NORMAL(CHIPS)':
+ C_PATH='@proiecttie.schematic1(sch_1):ins38@proiecttie.\lm111_0.normal\(chips)',
+ P_PATH='@proiecttie.schematic1(sch_1):page1_ins38@proiecttie.\lm111_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'LM101A_3_DIP8_3_LM101A':;
+
+SECTION_NUMBER 1
+ '@PROIECTTIE.SCHEMATIC1(SCH_1):INS93@PROIECTTIE.LM101A_3.NORMAL(CHIPS)':
+ C_PATH='@proiecttie.schematic1(sch_1):ins93@proiecttie.\lm101a_3.normal\(chips)',
+ P_PATH='@proiecttie.schematic1(sch_1):page1_ins93@proiecttie.\lm101a_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.
